@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 📱 Flutter Enthusiast 
 👨‍💻 Building cross-platform magic
 🎓3rd year B.Tech student 
-[![sumitjr3's GitHub | Stats](https://stats.quine.sh/sumitjr3/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumitjr3)
+[![sumitjr3's GitHub | Languages Over Time](https://stats.quine.sh/sumitjr3/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumitjr3)
