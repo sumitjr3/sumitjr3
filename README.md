@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 Android Developer 
-📱 Flutter Enthusiast 
+👨‍💻 App Developer
+📱 Backend Enthusiast 
 👨‍💻 Building cross-platform magic
-🎓3rd year B.Tech student 
+🎓4th year B.Tech student 
 [![sumitjr3's GitHub | Languages Over Time](https://stats.quine.sh/sumitjr3/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumitjr3)
